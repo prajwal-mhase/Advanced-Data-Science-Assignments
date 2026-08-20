@@ -1,0 +1,13 @@
+
+path: D:/Advanced Data Science Assignments/Assignment 4/yolo_dataset
+
+train: images/train
+val: images/val
+
+nc: 4
+
+names:
+  0: Ambulance
+  1: Bus
+  2: Car
+  3: Truck
